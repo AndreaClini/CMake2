@@ -9,5 +9,6 @@ int main()
 {
 	cout << "Hello CMake." << endl;
 	printf("just made minor changes");
+	printf("some more changes");
 	return 0;
 }
